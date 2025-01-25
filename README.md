@@ -14,7 +14,7 @@ And he dumped nearly all the LP in KongSwap and ICPSwap
 
 ### The buy back gone
 
-Because community didn't know BIL got hacked, so some people put buy back BIL, they thought some whale might dump this token.
+Because community didn't know BIL got hacked, so some people buy back some BIL, they thought some whale might dump this token.
 
 ![Mint 1b8 Token](./mint_1b8_token.png)
 
